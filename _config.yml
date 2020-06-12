@@ -14,18 +14,17 @@ author: true
 name: 'Sally Qi'
 NickName: 'Sally'
 webtitle: 'Sally Lab'
-bio: 'ty'
+bio: 'Web application developer. Cat lover'
 about: true
-aboutyou: 'your introduction'
-portraits: '/assets/profile.jpeg'
+aboutyou: 'Have 3+ years of experience with web application development. 4 months leetcode lover. Just build this site recently. Let me think about who I am here'
+portraits: '/assets/profile.png'
 
 SNS: true
 SNS-icon:
   mail: 'mailto:sally.qibuer@gmail.com'
   weixin: 'sally4388you'
-  qq: '438824887'
-  github: ''
-  Facebook: ''
+  github: 'https://github.com/sally4388you'
+  Facebook: 'https://www.facebook.com/qibuerh'
 
 paginate: 2
 paginatepath: ['page:num']
