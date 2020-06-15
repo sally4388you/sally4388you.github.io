@@ -4,9 +4,9 @@ title: 'Table Structure Comparion SQL'
 date: 2019-04-08 13:47:27 +0800
 tags: MySQL
 color: rgb(255,210,32)
-cover: '../assets/pics/developer.jpg'
+cover: '../assets/pics/wabisabi.jpg'
 excerpt: WE ARE ASSISTANT TO THE DBA
-pic-name: 'Mission Control by Nick Radford'
+pic-name: 'Wabi Sabi by Michael Driver'
 ---
 WE ARE THE ASSISTANT TO THE DBA
 
