@@ -35,10 +35,10 @@ footer:
 
 projects:
   MySQL Generator:
-    url: 'https://www.jekyll.com.cn/'
+    url: '###'
     cover: '/assets/pics/mysql.png'
   Combination Tool:
-    url: 'https://www.jekyll.com.cn/'
+    url: '###'
     cover: '/assets/pics/combine.jpg'
 
 
