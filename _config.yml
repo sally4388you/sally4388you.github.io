@@ -26,7 +26,7 @@ SNS-icon:
   github: 'https://github.com/sally4388you'
   Facebook: 'https://www.facebook.com/qibuerh'
 
-paginate: 2
+paginate: 3
 paginatepath: ['page:num']
 
 footer:

@@ -1,6 +1,6 @@
 .hll { background-color: #ffffcc }
 .c { color: #60a0b0; font-style: italic } /* Comment */
-.err { border: 1px solid #FF0000 } /* Error */
+/*.err { border: 1px solid #FF0000 }*/ /* Error */
 .k { color: #cc99cd; font-weight: bold } /* Keyword */
 .p { color: #ccc; } /* Punctuation */
 .o { color: #67cdcc } /* Operator */
