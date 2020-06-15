@@ -4,7 +4,8 @@ title: "Webhook Setup (CentOS + PHP)"
 date: 2020-05-19 10:56:21 +0800
 tags: server git
 color: rgb(255,90,90)
-cover: '../assets/cover-lion.jpg'
+cover: '../assets/pics/lion.jpg'
+pic-name: 'Lion by Weitong Mai'
 ---
 
 BACK IN MY DAY IT WAS CALLED CALLBACK-URL, NOT WEBHOOK

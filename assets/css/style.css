@@ -104,7 +104,7 @@ a{
     height: 440px;
     max-width: 1280px;
     margin: -20px auto;
-    background-image: url(/assets/lineart.png);
+    background-image: url(/assets/pics/lineart.png);
     color: #555;
     background-size: 1188px 219px;
     background-repeat: no-repeat;
@@ -207,6 +207,12 @@ a{
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   margin: 15px 2%;
+  text-align: right;
+  line-height: 580px;
+  color: #636161;
+  font-size: 0.8em;
+  text-shadow: 1px 1px 2px rgb(241, 152, 152);
+  padding-right: 3px;
 }
 .post-preview{
   height: auto;
@@ -572,7 +578,7 @@ a{
   height: 550px;
   width: 100%;
   /*background-color: #9A85FF;*/
-  background-image: url(/assets/lineart.png);
+  background-image: url(/assets/pics/lineart.png);
   background-size: 1188px 219px;
   background-position: top;
   background-repeat: no-repeat;

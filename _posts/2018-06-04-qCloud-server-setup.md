@@ -4,9 +4,11 @@ title: 'qCloud Server Set Up (CentOS7.4 + Nginx + PHP7 + Mysql)'
 date: 2018-06-04 14:27:55 +0800
 tags: server
 color: rgb(255,210,32)
-cover: '../assets/test.png'
+cover: '../assets/pics/developer.jpg'
 excerpt: GOT 99 PROBLEMS. BUT MY CLOUD SERVER AINT ONE
+pic-name: 'Mission Control by Nick Radford'
 ---
+GOT 99 PROBLEMS. BUT MY CLOUD SERVER AINT ONE
 
 ## ▼ Table of Contents:
 1. Reset password.

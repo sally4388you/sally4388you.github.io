@@ -1,0 +1,25 @@
+---
+layout: default
+title: Project Showcase
+page-title: Project Showcase
+description:
+---
+
+{% include header.html %}
+{% include boot.html %}
+<main>
+    {% include title.html %}
+    <ul class="ex-list">
+        {% for project in site.projects %}
+        <a href="{{ project[1].url }}">
+            <li class="fadeInUp animated">
+                <div class="post-cover" style="background:url({{ project[1].cover }});background-size:cover;background-position:center;"></div>
+                <span class="tag-name" >
+                    「&emsp;{{ project[0] }}&emsp;」</a>
+                </span>
+            </li>
+        </a>
+        {% endfor %}
+    </ul>
+</main>
+{% include footer.html %}

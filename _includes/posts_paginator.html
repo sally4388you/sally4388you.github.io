@@ -2,7 +2,7 @@
   <a href="{{ post.url }}">
       <li class="fadeInUp animated">
           {% if post.cover %}
-          <div class="post-cover" style="background:url({{ post.cover }});background-size:cover;background-position:center;"></div>
+          <div class="post-cover" style="background:url({{ post.cover }});background-size:cover;background-position:center;">{{post.pic-name}}</div>
           {% endif %}
           <section class="post-preview">
               <h2 class="post-title">{{ post.title }}</h2>
