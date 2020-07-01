@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'qCloud Server Set Up (CentOS7.4 + Nginx + PHP7 + MySQL)'
-date: 2018-06-04 14:27:55 +0800
+date: 2018-06-20 14:27:55 +0800
 tags: Server
-color: rgb(255,210,32)
+color: rgb(199, 155, 173)
 cover: '../assets/pics/developer.jpg'
 excerpt: GOT 99 PROBLEMS. BUT MY CLOUD SERVER AINT ONE
 pic-name: 'Mission Control by Nick Radford'
