@@ -3,7 +3,7 @@ layout: post
 title: "Webhook Setup (CentOS + PHP)"
 date: 2020-05-19 10:56:21 +0800
 tags: Server GIT
-color: rgb(255,90,90)
+color: rgb(255,210,32)
 cover: '../assets/pics/lion.jpg'
 pic-name: 'Lion by Weitong Mai'
 ---

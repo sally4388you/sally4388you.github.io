@@ -3,7 +3,7 @@ layout: post
 title: 'Table Structure Comparion SQL'
 date: 2019-04-08 13:47:27 +0800
 tags: MySQL
-color: rgb(255,210,32)
+color: rgb(255,90,90)
 cover: '../assets/pics/wabisabi.jpg'
 excerpt: WE ARE ASSISTANT TO THE DBA
 pic-name: 'Wabi Sabi by Michael Driver'
