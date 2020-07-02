@@ -327,7 +327,7 @@
   margin: 30px 0 26px;
 }
 .markdown-body h3::after{
-  content:"h3";
+  /*content:"h3";*/
   color: #999;
   position: absolute;
   display: block;
