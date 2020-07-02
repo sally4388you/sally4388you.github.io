@@ -717,6 +717,9 @@
 .markdown-body .highlight pre {
   margin-bottom: 0;
   word-break: normal;
+  position: relative;
+  padding-left: 3em !important;
+  counter-reset: linenumber;
 }
 
 .markdown-body .highlight pre,
@@ -727,6 +730,35 @@
   line-height: 1.45;
   background-color: #2d2d2d;
   border-radius: 3px;
+}
+
+.highlight .line-numbers-rows {
+  position: absolute;
+  pointer-events: none;
+  top: 16px;
+  font-size: 100%;
+  left: 1.2em;
+  letter-spacing: -1px;
+  border-right: 1px solid #999;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.highlight .line-numbers-rows > span {
+  pointer-events: none;
+  display: block;
+  counter-increment: linenumber;
+  line-height: 21px;
+}
+
+.highlight .line-numbers-rows span:before {
+  content: counter(linenumber);
+  color: #999;
+  display: block;
+  padding-right: .8em;
+  text-align: right;
 }
 
 .markdown-body .full-commit .btn-outline:not(:disabled):hover {
@@ -770,10 +802,6 @@
 .markdown-body hr {
   border-bottom-color: #eee;
 }
-
-/*.highlighter-rouge {
-  color: #c7254e;
-}*/
 
 @media screen and (max-width: 500px){
   .markdown-body,.markdown-body p{
