@@ -3,7 +3,7 @@ layout: post
 title: 'PostgreSQL Studying Notes'
 date: 2017-07-10 14:27:55 +0800
 tags: Notes PostgreSQL
-color: rgb(132, 106, 173)
+color: rgb(32, 152, 255)
 cover: '../assets/pics/shakleton.jpg'
 excerpt: ALREADY DONT KNOW WHAT THIS IS
 pic-name: "Shakleton's Journey by William Grill"
