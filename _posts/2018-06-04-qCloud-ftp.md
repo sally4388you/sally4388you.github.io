@@ -33,5 +33,5 @@ passwd your_password
 ### [Pure-FTPd](https://wiki.archlinux.org/index.php/Pure-FTPd) on aliyun Cloud
 * pureftpd path on aliyun: /usr/local/pureftpd/bin
 * List all users `./pure-pw list`
-* Modify user's home directory `sudo ./pure-pw usermod [username] -d [/home/directory]`
-* Commit changes `pure-pw mkdb`
+* Modify user's home directory `./pure-pw usermod [username] -d [/home/directory]`
+* Commit changes `./pure-pw mkdb`
