@@ -30,7 +30,7 @@ passwd your_password
 2. Check which group your user belongs to: `group username`
 3. 550 Permission denied: `chown user:group -R [directory]`
 
-### Pure-FTPd on aliyun Cloud
+### [Pure-FTPd](https://wiki.archlinux.org/index.php/Pure-FTPd) on aliyun Cloud
 * pureftpd path on aliyun: /usr/local/pureftpd/bin
 * List all users `./pure-pw list`
 * Modify user's home directory `sudo ./pure-pw usermod [username] -d [/home/directory]`
