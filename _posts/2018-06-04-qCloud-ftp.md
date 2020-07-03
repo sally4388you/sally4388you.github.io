@@ -28,7 +28,7 @@ passwd your_password
 ## Tips:
 1. Check all users on Linux: `cat /etc/passwd`
 2. Check which group your user belongs to: `group username`
-3. 550 Permission denied | 553 Can't open that file (need to change owner the same with ftp user): `chown user:group -R [directory]`
+3. 550 Permission denied / 553 Can't open that file (need to change owner the same with ftp user): `chown user:group -R [directory]`
 
 ### [Pure-FTPd](https://wiki.archlinux.org/index.php/Pure-FTPd) on aliyun Cloud
 * pureftpd path on aliyun: /usr/local/pureftpd/bin
