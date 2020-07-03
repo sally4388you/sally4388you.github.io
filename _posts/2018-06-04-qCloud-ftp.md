@@ -21,8 +21,8 @@ yum -y install ftp
 ```
 ## After installation:
 ```bash
-useradd qibuer -g ftp -d /data/wwwroot
-passwd qibuer
+useradd your_user_name -g ftp -d /data/wwwroot
+passwd your_password
 ```
 
 ## Tips:
