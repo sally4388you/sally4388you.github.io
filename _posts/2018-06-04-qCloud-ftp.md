@@ -30,7 +30,8 @@ passwd your_password
 2. Check which group your user belongs to: `group username`
 3. 550 Permission denied: `chown user:group -R [directory]`
 
-### Cheatsheet
-* Archived pureftpd on aliyun (/usr/local/pureftpd/bin)
+### pureftp on aliyun Cloud
+* pureftpd path on aliyun: /usr/local/pureftpd/bin
 * List all users `./pure-pw list`
-* Create a user `pure-pw mkdb`
+* Modify user's home directory `sudo ./pure-pw usermod [username] -d [/home/directory]`
+* Commit changes `pure-pw mkdb`
