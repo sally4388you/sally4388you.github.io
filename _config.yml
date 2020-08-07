@@ -7,7 +7,7 @@ nav:
   Home: '/'
   Blogs: '/blogs.html'
   # Timeline: '/timeline.html'
-  Project Showcase: '/showcase.html'
+  Portfolio: '/portfolio.html'
   About: '/about.html'
 
 author: true
